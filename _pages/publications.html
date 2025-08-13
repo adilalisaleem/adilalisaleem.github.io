@@ -1,36 +1,55 @@
 ---
-layout: archive
-title: "Publications"
+layout: default
+title: Publications
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+  ul.publications-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  ul.publications-list li {
+    margin-bottom: 1.2em;
+    line-height: 1.4;
+  }
+  ul.publications-list li strong {
+    font-weight: 600;
+  }
+  ul.publications-list li a {
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  ul.publications-list li a:hover {
+    text-decoration: underline;
+  }
+</style>
 
-{% include base_path %}
+<h1>Publications</h1>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<ul class="publications-list">
+  {% for pub in site.data.publications %}
+    <li>
+      <strong>{{ pub.authors }}</strong>. 
+      "<em>{{ pub.title }}</em>."
+      {% if pub.journal %}
+        <strong>{{ pub.journal }}</strong>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
+      {% if pub.volume %} {{ pub.volume }}{% endif %}
+      {% if pub.issue %}, no. {{ pub.issue }}{% endif %}
+      {% if pub.pages %}
+        {% if pub.pages contains "-" %}
+          : {{ pub.pages }}.
+        {% else %}
+          ({{ pub.pages }}).
+        {% endif %}
+      {% else %}
+        .
+      {% endif %}
+      {{ pub.year }}.
+      {% if pub.doi %}
+        <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">https://doi.org/{{ pub.doi }}</a>
+      {% endif %}
+    </li>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+</ul>
