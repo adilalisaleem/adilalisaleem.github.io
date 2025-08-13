@@ -1,0 +1,179 @@
+- authors: "Muhammad Amjad Raza, Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Kainat Zafar, Afia Zafar, Sandra Dudley, and Muhammad Iqbal"
+  title: "Advanced Feature Extraction for Cervical Cancer Image Classification: Integrating Neural Feature Extraction and AutoInt Models."
+  journal: "Sensors"
+  volume: 25
+  issue: 9
+  year: 2025
+  pages: 2826
+  doi: "10.3390/s25092826"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Riccardo Russo, Adil Ali Saleem, Sandra Dudley, and Furqan Rustam"
+  title: "Improving Automated PSN Assessment in Type 2 Diabetes: A Study on Plantar Lesion Recognition and Probe Avoidance Techniques."
+  journal: "IEEE Access"
+  year: 2024
+  doi: "10.1109/ACCESS.2024.3430194"
+
+- authors: "Noushin Saba, Afia Zafar, Mohsin Suleman, Kainat Zafar, Shahneer Zafar, Adil Ali Saleem, Hafeez Ur Rehman Siddiqui, Muhammad Iqbal, and Syed Sajid Ullah"
+  title: "A Synergistic Approach to Colon Cancer Detection: Leveraging EfficientNet and NSGA-II for Enhanced Diagnostic Performance."
+  journal: "IEEE Access"
+  year: 2024
+  doi: "10.1109/ACCESS.2024.3519216"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Robert Brown, Adil Ali Saleem, Muhammad Amjad Raza, and Sandra Dudley"
+  title: "Enhancing Power Grid Reliability With Machine Learning and Auxiliary Classifier Generative Adversarial Networks: A Study on Fault Detection Using the Georgia Electric System Load Dataset."
+  journal: "IEEE Access"
+  year: 2024
+  doi: "10.1109/ACCESS.2024.3524061"
+
+- authors: "Shahzad Hussain, Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Muhammad Amjad Raza, Josep Alemany Iturriaga, Alvaro Velarde-Sotres, and Isabel De la Torre Díez"
+  title: "Therapeutic Exercise Recognition Using a Single UWB Radar with AI-Driven Feature Fusion and ML Techniques in a Real Environment."
+  journal: "Sensors"
+  volume: 24
+  issue: 17
+  year: 2024
+  pages: 5533
+  doi: "10.3390/s24175533"
+
+- authors: "Shahzad Hussain, Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Muhammad Amjad Raza, Josep Alemany-Iturriaga, Álvaro Velarde-Sotres, Isabel De la Torre Díez, and Sandra Dudley"
+  title: "Smart Physiotherapy: Advancing Arm-Based Exercise Classification with PoseNet and Ensemble Models."
+  journal: "Sensors"
+  volume: 24
+  issue: 19
+  year: 2024
+  pages: 6325
+  doi: "10.3390/s24196325"
+
+- authors: "Adil Ali Saleem, Hafeez Ur Rehman Siddiqui, Rukhshanda Sehar, and Sandra Dudley"
+  title: "Gender classification based on gait analysis using ultrawide band radar augmented with artificial intelligence."
+  journal: "Expert Systems with Applications"
+  year: 2024
+  pages: 123843
+  doi: "10.1016/j.eswa.2024.123843"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Ambreen Akmal, Muhammad Iqbal, Adil Ali Saleem, Muhammad Amjad Raza, Kainat Zafar, Aqsa Zaib et al."
+  title: "Ultra-wide band radar empowered driver drowsiness detection with convolutional spatial feature engineering and artificial intelligence."
+  journal: "Sensors"
+  volume: 24
+  issue: 12
+  year: 2024
+  pages: 3754
+  doi: "10.3390/s24123754"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Sunwan Nawaz, Muhammad Nauman Saeed, Adil Ali Saleem, Muhammad Amjad Raza, Ali Raza, Muhammad Ahsan Aslam, and Sandra Dudley"
+  title: "Footwear-integrated force sensing resistor sensors: A machine learning approach for categorizing lower limb disorders."
+  journal: "Engineering Applications of Artificial Intelligence"
+  volume: 127
+  year: 2024
+  pages: 107205
+  doi: "10.1016/j.engappai.2023.107205"
+
+- authors: "Kainat Zafar, Hafeez Ur Rehman Siddiqui, Abdul Majid, Adil Ali Saleem, Ali Raza, Furqan Rustam, and Sandra Dudley"
+  title: "Deep Learning Based Feature Engineering to Detect Anterior and Inferior Myocardial Infarction using UWB Radar Data."
+  journal: "IEEE Access"
+  year: 2023
+  doi: "10.1109/ACCESS.2023.3312948"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Kainat Zafar, Adil Ali Saleem, Rukhshanda Sehar, Furqan Rustam, Sandra Dudley, and Imran Ashraf"
+  title: "Artificial intelligence-based myocardial infarction diagnosis: a comprehensive review of modern techniques."
+  journal: "Multimedia Tools and Applications"
+  year: 2023
+  pages: "1-29"
+  doi: "10.1007/s11042-023-17246-0"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Muhammad Amjad Raza, Santos Gracia Villar, Luis Alonso Dzul Lopez, Isabel de la Torre Diez, Furqan Rustam, and Sandra Dudley"
+  title: "Empowering Lower Limb Disorder Identification through PoseNet and Artificial Intelligence"
+  journal: "Diagnostics"
+  volume: 13
+  issue: 18
+  year: 2023
+  pages: 2881
+  doi: "10.3390/diagnostics13182881"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Ali Raza, Adil Ali Saleem, Furqan Rustam, Isabel de la Torre Díez, Daniel Gavilanes Aray, Vivian Lipari, Imran Ashraf, and Sandra Dudley"
+  title: "An Approach to Detect Chronic Obstructive Pulmonary Disease Using UWB Radar-Based Temporal and Spectral Features"
+  journal: "Diagnostics"
+  volume: 13
+  issue: 6
+  year: 2023
+  pages: 1096
+  doi: "10.3390/diagnostics13061096"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Kainat Zafar, Adil Ali Saleem, Muhammad Amjad Raza, Sandra Dudley, Furqan Rustam, and Imran Ashraf"
+  title: "Emotion classification using temporal and spectral features from IR-UWB-based respiration data."
+  journal: "Multimedia Tools and Applications"
+  year: 2022
+  pages: "1-19"
+  doi: "10.1007/s11042-022-14091-5"
+
+- authors: "Adil Ali Saleem, Hafeez Ur Rehman Siddiqui, Muhammad Amjad Raza, Furqan Rustam, Sandra Dudley, and Imran Ashraf"
+  title: "A systematic review of physiological signals based driver drowsiness detection systems."
+  journal: "Cognitive Neurodynamics"
+  year: 2022
+  pages: "1-31"
+  doi: "10.1007/s11571-022-09898-9"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Muhammad Amjad Raza, Kainat Zafar, Riccardo Russo, and Sandra Dudley"
+  title: "Automatic User Preferences Selection of Smart Hearing Aid Using BioAid"
+  journal: "Sensors"
+  volume: 22
+  issue: 20
+  year: 2022
+  pages: 8031
+  doi: "10.3390/s22208031"
+
+- authors: "Adil Ali Saleem, Kainat Zafar, Muhammad Amjad Raza, Zahid Kareem, Mui-zzud-din, Hafeez Ur Rehman Siddiqui, Sandra Dudley"
+  title: "IoT Based Smart Physiotherapy System: A Review"
+  journal: "Journal of Engineering Research and Sciences"
+  volume: 1
+  issue: 10
+  pages: "45-55"
+  year: 2022
+  doi: "10.55708/js0110007"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Muhammad Amjad Raza, Kainat Zafar, Kashif Munir, and Sandra Dudley"
+  title: "IoT based Railway Track Faults Detection and Localization Using Acoustic Analysis."
+  journal: "IEEE Access"
+  year: 2022
+  doi: "10.1109/ACCESS.2022.3210326"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Imran Bashir, Kainat Zafar, Furqan Rustam, Isabel de la Torre Diez, Sandra Dudley, and Imran Ashraf"
+  title: "Respiration-Based COPD Detection Using UWB Radar Incorporation with Machine Learning"
+  journal: "Electronics"
+  volume: 11
+  issue: 18
+  year: 2022
+  pages: 2875
+  doi: "10.3390/electronics11182875"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Hina Fatima Shahzad, Adil Ali Saleem, Abdul Baqi Khan Khakwani, Furqan Rustam, Ernesto Lee, Imran Ashraf, and Sandra Dudley"
+  title: "Respiration Based Non-Invasive Approach for Emotion Recognition Using Impulse Radio Ultra Wide Band Radar and Machine Learning."
+  journal: "Sensors"
+  volume: 21
+  issue: 24
+  year: 2021
+  pages: 8336
+  doi: "10.3390/s21248336"
+
+- authors: "Hafeez Ur Rehman Siddiqui, Adil Ali Saleem, Robert Brown, Bahattin Bademci, Ernesto Lee, Furqan Rustam, and Sandra Dudley"
+  title: "Non-invasive driver drowsiness detection system."
+  journal: "Sensors"
+  volume: 21
+  issue: 14
+  year: 2021
+  pages: 4833
+  doi: "10.3390/s21144833"
+
+- authors: "Hina Fatima Shahzad, Adil Ali Saleem, Amna Ahmed, Kiran Shehzadi and Hafeez Ur Rehman Siddiqui"
+  title: "A Review on Physiological Signal Based Emotion Detection."
+  journal: "Annals of Emerging Technologies in Computing (AETiC)"
+  volume: 5
+  issue: 3
+  year: 2021
+  doi: "10.33166/AETiC.2021.03.003"
+
+- authors: "Adil Ali Saleem, Hafeez Ur Rehman Siddiqui, Rahman Shafique, Abdullah Haider, and Muhammad Ali"
+  title: "A review on smart IOT based parking system."
+  journal: "International Conference on Soft Computing and Data Mining, Springer, Cham"
+  pages: "264-273"
+  year: 2020
+  doi: "10.1007/978-3-030-36056"
